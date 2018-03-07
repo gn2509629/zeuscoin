@@ -70,7 +70,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>SkullCoin</source>
+        <source>Zeuscoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>

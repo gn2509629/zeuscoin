@@ -142,8 +142,8 @@
         <translation>Cargando el index de bloques...</translation>
     </message>
     <message>
-        <source>Send coins to a SkullCoin address</source>
-        <translation>Enviar monedas a una dirección skullcoin</translation>
+        <source>Send coins to a Zeuscoin address</source>
+        <translation>Enviar monedas a una dirección zeuscoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -166,8 +166,8 @@
         <translation>Verificar mensaje....</translation>
     </message>
     <message>
-        <source>SkullCoin</source>
-        <translation>SkullCoin</translation>
+        <source>Zeuscoin</source>
+        <translation>Zeuscoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -186,7 +186,7 @@
         <translation>&amp;Mostrar/Ocultar</translation>
     </message>
     <message>
-        <source>Sign messages with your SkullCoin addresses to prove you own them</source>
+        <source>Sign messages with your Zeuscoin addresses to prove you own them</source>
         <translation>Firmar un mensaje para provar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -206,8 +206,8 @@
         <translation>Barra de pestañas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and skullcoin: URIs)</source>
-        <translation>Pide pagos (genera codigos QR and skullcoin: URls)</translation>
+        <source>Request payments (generates QR codes and zeuscoin: URIs)</source>
+        <translation>Pide pagos (genera codigos QR and zeuscoin: URls)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -363,8 +363,8 @@
         <translation>experto</translation>
     </message>
     <message>
-        <source>Automatically open the SkullCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente SkullCoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the Zeuscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abre automáticamente el puerto del cliente Zeuscoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -687,7 +687,7 @@
         <translation>Firma</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this SkullCoin address</source>
+        <source>Sign the message to prove you own this Zeuscoin address</source>
         <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -772,8 +772,8 @@
 </translation>
     </message>
     <message>
-        <source>SkullCoin Core</source>
-        <translation>skullcoin core</translation>
+        <source>Zeuscoin Core</source>
+        <translation>zeuscoin core</translation>
     </message>
     <message>
         <source>Error loading block database</source>

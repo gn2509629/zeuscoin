@@ -138,7 +138,7 @@
         <translation>Повторно индексирање на блокови од дискот...</translation>
     </message>
     <message>
-        <source>Send coins to a SkullCoin address</source>
+        <source>Send coins to a Zeuscoin address</source>
         <translation>Испрати биткоини на Биткоин адреса</translation>
     </message>
     <message>
@@ -146,7 +146,7 @@
         <translation>&amp;Потврди порака...</translation>
     </message>
     <message>
-        <source>SkullCoin</source>
+        <source>Zeuscoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -578,7 +578,7 @@
         <translation>Опции:</translation>
     </message>
     <message>
-        <source>SkullCoin Core</source>
+        <source>Zeuscoin Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>

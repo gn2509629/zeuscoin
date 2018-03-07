@@ -126,8 +126,8 @@
         <translation>Оношилгоо ба засварын консолыг онгойлго</translation>
     </message>
     <message>
-        <source>SkullCoin</source>
-        <translation>SkullCoin</translation>
+        <source>Zeuscoin</source>
+        <translation>Zeuscoin</translation>
     </message>
     <message>
         <source>Wallet</source>

@@ -1,11 +1,11 @@
 Benchmarking
 ============
 
-SkullCoin Core has an internal benchmarking framework, with benchmarks
+Zeuscoin Core has an internal benchmarking framework, with benchmarks
 for cryptographic algorithms such as SHA1, SHA256, SHA512 and RIPEMD160. As well as the rolling bloom filter.
 
-After compiling skullcoin-core, the benchmarks can be run with:
-`src/bench/bench_skullcoin`
+After compiling zeuscoin-core, the benchmarks can be run with:
+`src/bench/bench_zeuscoin`
 
 The output will look similar to:
 ```

@@ -214,8 +214,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>SkullCoin</source>
-        <translation>SkullCoin</translation>
+        <source>Zeuscoin</source>
+        <translation>Zeuscoin</translation>
     </message>
     <message>
         <source>Wallet</source>

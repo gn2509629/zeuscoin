@@ -114,8 +114,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>SkullCoin</source>
-        <translation>SkullCoin</translation>
+        <source>Zeuscoin</source>
+        <translation>Zeuscoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -484,8 +484,8 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>SkullCoin Core</source>
-        <translation>Craidd SkullCoin</translation>
+        <source>Zeuscoin Core</source>
+        <translation>Craidd Zeuscoin</translation>
     </message>
     <message>
         <source>Information</source>
